@@ -8,3 +8,4 @@ geopy==2.2.0
 osmnx 
 networkx
 IPython
+scikit-learn==0.24.2
